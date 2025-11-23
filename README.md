@@ -8,7 +8,7 @@ Prerequisites
 
 Setting up the program
 - Extract the program anywhere you like.
-- Run `FTLSaveRestore.exe`.
+- Run "FTLSaveRestore.exe".
 - Verify the "Save Folder" and "Game Exe" paths in the main window and adjust if needed.
 
 
@@ -19,6 +19,7 @@ Using the Save Restorer
 - Enable "Automatically launch game" to have the game opened automatically when you run the Save Restorer.
 - Load your game or start a new one.
 - The Save Restorer runs in the background and makes a backup whenever the game writes its continue save.
+- Note a typical run can generate hundreds or thousands of files, I recommend using the "Open Save Folder" button and pruning the backups occasionally, or the save list will take too long to refresh. 
 
 Restoring a previous saved game
 - Filter backups using the search box or by Ship name.
