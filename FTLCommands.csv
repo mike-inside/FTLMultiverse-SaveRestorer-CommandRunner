@@ -396,7 +396,6 @@ Events,Ministry Sector Events,,EVENT DISTRESS_ZOLTAN_MANTIS_MV,[!]
 Events,Ministry Sector Events,,EVENT DISTRESS_ZOLTAN_HUSK_MV,[!]
 Events,Ministry Sector Events,,EVENT DISTRESS_REFUGEE_ZOLTAN_MV,[!]
 Events,Ministry Sector Events,,EVENT DISTRESS_ZOLTAN_ARREST,[!]
-Same as above,DISTRESS_ZOLTAN_RAID,[!],,
 Events,Ministry Sector Events,,EVENT ZOLTAN_LAWBOOK,[!]
 Events,Ministry Sector Events,,EVENT ZOLTAN_QUEST_LAWBOOK_PIRATE,[!]
 Events,Ministry Sector Events,,EVENT ZOLTAN_QUEST_LAWBOOK_DUSKBRINGER,[!]
@@ -822,7 +821,7 @@ Weapons,Sentry Deployer,,WEAPON SENTRY_HEAL,Medi-Sentry Deployer
 Weapons,Sentry Deployer,,WEAPON SENTRY_VAMP,Vamp-Sentry Deployer
 Weapons,Mine Launcher,,WEAPON MINELAUNCHER_1,Geb Mine Launcher
 Weapons,Mine Launcher,,WEAPON MINELAUNCHER_2,Osiris Mine Launcher
-WeB,MINELAUNCHER_3,Ra Mine Launcher,,
+Weapons,Mine Launcher,,WEAPON MINELAUNCHER_3,Ra Mine Launcher
 Weapons,Mine Launcher,,WEAPON MINELAUNCHER_FREE,Nephthys Mine Launcher
 Weapons,Mine Launcher,,WEAPON MINELAUNCHER_FIRE,Sekhmet Mine Launcher
 Weapons,Mine Launcher,,WEAPON MINELAUNCHER_BREACH,Sobek Mine Launcher
