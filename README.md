@@ -38,7 +38,7 @@ Opening the Command Runner
 - From the system tray: right-click the tray icon and choose "Open Command Editor".
 
 Important command-runner requirements and behavior
-- The game must have the in-game Command Window open for Run Script to work. The default key to open the Command Window is "\".
+- The game must have the in-game Command Window open for Run Script to work. The default key to open the Command Window is `\`.
 - You must not have other in-game windows open (for example: event windows, shops, or anything that intercepts keyboard input).
 
 Filtering and searching commands
